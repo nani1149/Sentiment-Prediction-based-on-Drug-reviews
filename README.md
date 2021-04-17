@@ -6,6 +6,13 @@ From the experience of the end user of a drug, which in the context of this proj
 
 There is an enormous amount of data available in the medical industry describing the patient’s conditions, the prescribed medicines and the patient’s opinion on these drugs. Much of this information is very complex in the form of plain text. Natural Language Processing, also referred to as NLP, helps in understanding the relationship between the words and making an inference about the words. Sentiment analysis, also known as opinion mining, which uses NLP to study the affective state and subjectivity of the text was explored in this project. Supervised machine learning algorithms namely, Logistic Regression, Navies Bayes, Decision Tree, Random Forest and Support Vector Machine were used to predict the sentiment of the reviews. The goal of this project is to propose the model that performed the best for this dataset. The data set was split to utilize 70% for training the models and 30% as test data for evaluation of the models. The entire work was carried out in Python™.
 
-**References:**
+**Dataset:**
 
-Please view attached Details report in the repository
+https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+
+**References:**
+[1] https://www.sciencedirect.com/science/article/pii/S1665642317300561
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233089/pdf/3269957.pdf
+[3] https://dl.acm.org/doi/10.1145/3194658.3194677
+[4] Yellowbrick Documentation (readthedocs.org)
+[5] Sentiment Analysis in Drug Reviews using Supervised Machine Learning Algorithms (arxiv.org)
